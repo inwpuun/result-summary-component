@@ -375,7 +375,6 @@ body {
         font-family: 'Hanken Grotesk', sans-serif;
         font-weight: 700;
         font-size: 16px;
-        color: hsl(224, 30%, 27%);
         margin-top: 10px;
         margin-left: 0px;
         text-align: flex-start;
@@ -395,7 +394,7 @@ body {
     
     .score h3 {
         font-family: 'Hanken Grotesk', sans-serif;
-        font-weight: bold;
+        font-weight: 1000;
         font-size: 16px;
         color: hsl(224, 30%, 27%);
         margin-top: 10px;
